@@ -1,0 +1,6 @@
+﻿  Thread.cpp
+c:\users\misha\desktop\lab_4\thread\thread\thread.cpp(78): warning C4305: =: усечение из "double" к "float"
+c:\users\misha\desktop\lab_4\thread\thread\thread.cpp(108): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\misha\desktop\lab_4\thread\thread\thread.cpp(120): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Thread.vcxproj -> C:\Users\Misha\Desktop\Lab_4\Thread\Debug\Thread.exe
+  Thread.vcxproj -> C:\Users\Misha\Desktop\Lab_4\Thread\Debug\Thread.pdb (Full PDB)
